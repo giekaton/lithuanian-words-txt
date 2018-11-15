@@ -1,8 +1,8 @@
 # Lietuviškų žodžių sąrašas .txt formatu
 
-Lietuviškų žodžių sąrašas txt formatu [parsisiųsti](https://raw.githubusercontent.com/dziungles/lithuanian-words-txt/master/lithuanian-words-list.txt).
+Lietuviškų žodžių sąrašas / žodynas txt formatu [parsisiųsti](https://raw.githubusercontent.com/dziungles/lithuanian-words-txt/master/lithuanian-words-list.txt).
 
-Lietuviškų žodžių skaičius: 83258
+Šiame sąraše yra 83258 lietuviški žodžiai.
 
 Sąrašas išgautas iš Open Office lietuvių kalbos tikrinimo [plėtinio](https://extensions.libreoffice.org/extensions/lithuanian-spellcheck-and-hyphenation-dictionaries).
 
