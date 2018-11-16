@@ -1,4 +1,4 @@
-# Lietuviškų žodžių sąrašas .txt formatu
+# Lietuviškų žodžių sąrašas, žodynas .txt formatu
 
 Lietuviškų žodžių sąrašas / žodynas txt formatu [parsisiųsti](https://raw.githubusercontent.com/dziungles/lithuanian-words-txt/master/lithuanian-words-list.txt).
 
